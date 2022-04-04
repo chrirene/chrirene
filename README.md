@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrirene
 - 👀 I’m interested on new things
-- 🌱 I’m currently learning java and phython
+- 🌱 I’m currently learning python and java
 - 📫 How to reach me just catch me on Linkedin Christine Irene 
 
 <!---
